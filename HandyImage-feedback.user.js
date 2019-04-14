@@ -15,6 +15,7 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_notification
+// @noframes
 // ==/UserScript==
 
 GM_registerMenuCommand('Handy Image feedback: github settings', settingConfig,"c")
